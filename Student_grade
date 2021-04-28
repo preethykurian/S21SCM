@@ -1,0 +1,7 @@
+read mark1, mark2, mark 3, mark 4
+if mark1>=50 print "pass"
+if mark2>=50 print "pass"
+if mark3>=50 print "pass"
+if mark4>=50 print "pass"
+total-mark1+mark2+mark3+mark4
+print total
